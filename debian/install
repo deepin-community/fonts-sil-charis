@@ -1,0 +1,3 @@
+*.ttf        usr/share/fonts/truetype/charis
+web/*.woff   usr/share/fonts-sil-charis/woff
+debian/bug/* usr/share/bug/fonts-sil-charis
