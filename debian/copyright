@@ -4,7 +4,6 @@ Upstream-Name: Charis SIL
 Upstream-Contact: SIL International https://software.sil.org/charis/support
 Source: https://software.sil.org/charis
 
-
 Files: *
 Copyright: The design of the basic character set of Charis SIL is similar (but not
  identical) to Bitstream Charter, designed by Matthew Carter. The following
@@ -25,17 +24,17 @@ Copyright: The design of the basic character set of Charis SIL is similar (but n
  SIL International is the creator of the Charis SIL fonts, and is the owner
  of all proprietary rights therein.
  .
- This Font Software is Copyright (c) 1997-2014, SIL International (http://www.sil.org/),
+ This Font Software is Copyright (c) 1997-2023, SIL International (http://www.sil.org/),
  with Reserved Font Names "Charis" and "SIL".
-License: OFL-1.1
+License: OFL-1.1-RFN
 
 
 Files: debian/*
-Copyright: (C) 2007-2018 Nicolas Spalinger, Christian Perrier, Daniel Glassey, Bobby de Vos
-License: OFL-1.1
+Copyright: (C) 2007-2022 Nicolas Spalinger, Christian Perrier, Daniel Glassey, Bobby de Vos
+License: OFL-1.1-RFN
 
-License: OFL-1.1
- This Font Software is Copyright (c) 1997-2014, SIL International (http://www.sil.org/),
+License: OFL-1.1-RFN
+ This Font Software is Copyright (c) 1997-2022, SIL International (http://www.sil.org/),
  with Reserved Font Names "Charis" and "SIL".
  .
  This Font Software is licensed under the SIL Open Font License, Version 1.1.

@@ -7,3 +7,6 @@ override_dh_installchangelogs:
 
 override_dh_installdocs:
 	dh_installdocs -X.woff
+
+override_dh_compress:
+	dh_compress -X.html -X.css

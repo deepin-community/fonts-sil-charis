@@ -1,9 +1,49 @@
-fonts-sil-charis (5.000-3.1) unstable; urgency=medium
+fonts-sil-charis (6.200-1) unstable; urgency=medium
 
-  * Non maintainer upload by the Reproducible Builds team.
-  * No source change upload to rebuild on buildd with .buildinfo files.
+  * Team upload.
+  * New upstream release.
+  * debian/control: Bump Standards-Version to 4.6.2.
+  * debian/rules: Do not compress html and css files.
+  * debian/doc-base: Update entry point to use HTML index page.
 
- -- Holger Levsen <holger@debian.org>  Mon, 28 Dec 2020 12:07:54 +0100
+ -- Boyuan Yang <byang@debian.org>  Fri, 13 Oct 2023 10:12:32 -0400
+
+fonts-sil-charis (6.101-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Bobby de Vos <bobby_devos@sil.org>  Fri, 18 Feb 2022 10:00:52 -0700
+
+fonts-sil-charis (6.001-3) unstable; urgency=medium
+
+  * Update Standards to 4.6.0 (checked)
+
+ -- Bobby de Vos <bobby_devos@sil.org>  Tue, 14 Dec 2021 08:37:31 -0700
+
+fonts-sil-charis (6.001-2) unstable; urgency=medium
+
+  * Bump debhelper from old 12 to 13.
+
+ -- Bobby de Vos <bobby_devos@sil.org>  Mon, 13 Dec 2021 18:31:12 -0700
+
+fonts-sil-charis (6.001-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Bobby de Vos <bobby_devos@sil.org>  Wed, 07 Jul 2021 09:59:57 -0600
+
+fonts-sil-charis (6.000-2) unstable; urgency=medium
+
+  * Bump version to re-upload
+
+ -- Bobby de Vos <bobby_devos@sil.org>  Tue, 29 Jun 2021 12:36:08 -0600
+
+fonts-sil-charis (6.000-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Update Standards to 4.5.1 (checked)
+
+ -- Bobby de Vos <bobby_devos@sil.org>  Tue, 29 Jun 2021 07:51:50 -0600
 
 fonts-sil-charis (5.000-3) unstable; urgency=medium
 
